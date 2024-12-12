@@ -1,4 +1,6 @@
-<img src="fig1.png" alt="fig1" style="zoom:50%;" />
+<p align="center">
+    <img src="fig1.png" width="300">
+</p>
 
 # Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios
 
